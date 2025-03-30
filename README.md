@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card](https://www.frontendmentor.io/chal
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/Blog-preview-card/)
 
 ## Author
 
